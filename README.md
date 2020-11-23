@@ -1,4 +1,4 @@
-## Hello, I'm Humza - A Junior DevOps Consultant :books: :dart:
+## Hello, I'm Humza - A Junior DevSecOps Engineer :books: :dart:
 
 ### **Technical Skills**
 
