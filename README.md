@@ -27,7 +27,7 @@
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 
 
-[![Humza github stats](https://github-readme-stats.vercel.app/api?username=sirpimpsalot)](https://github.com/sirpimpsalot/github-readme-stats)
+[![Humza github stats](https://github-readme-stats.vercel.app/api?username=humzamalak)](https://github.com/humzamalak/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirpimpsalot)](https://github.com/sirpimpsalot/github-readme-stats)
-![Visitor Count](https://profile-counter.glitch.me/sirpimpsalot/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humzamalak)](https://github.com/humzamalak/github-readme-stats)
+![Visitor Count](https://profile-counter.glitch.me/humzamalak/count.svg)
