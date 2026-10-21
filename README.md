@@ -1,32 +1,58 @@
-## Hello, I'm Humza - A DevOps Engineer :books: :dart:
+## Hi, I'm Humza 👋
 
-### **Technical Skills**
+**DevOps & software engineer.** I build cloud infrastructure, CI/CD and Kubernetes platforms. The rest of the time I make games, AI agent tooling and small experiments.
 
-#### DevOps And Cloud Computing
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623Ce4?style=flat&logo=Terraform&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=Vagrant&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![OracleVM](https://img.shields.io/badge/-OracleVM-F80000?style=flat&logo=Oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+- 🛠️ Infrastructure as code, GitOps and pipelines that ship safely
+- 🎮 Building **Stoneblood Labyrinth**, a 2.5D action RPG in Godot 4
+- 🤖 Working on local AI agent tools and dashboards
+- 🌐 More about me at **[humzamalak.dev](https://humzamalak.dev)**
 
-#### Databases
-![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)
+### Featured projects
 
-#### Client Software
-![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)
-![Microsoft powerpoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint)
-![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
-![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
-![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
+| Project | What it is |
+| --- | --- |
+| [Production-Ready EKS Cluster with GitOps](https://github.com/humzamalak/Production-Ready-EKS-Cluster-with-GitOps) | Kubernetes with Argo CD, Vault and observability. Runs on Minikube locally, with an AWS EKS path for production |
+| [DevSecOps CI/CD Pipeline](https://github.com/humzamalak/DevSecOps-CI-CD-Pipeline-with-Security-Scanning) | CI/CD pipeline with security scanning built into every stage |
+| [DevOps Bash Script Toolkit](https://github.com/humzamalak/DevOps-Bash-Script-Toolkit) | Modular, POSIX-compliant scripts for infrastructure, CI/CD, Kubernetes, monitoring and backups |
+| [Airsnap](https://github.com/humzamalak/airsnap) | Camera-free scroll and gesture control for macOS using ultrasonic Doppler sensing |
+| [Portfolio](https://github.com/humzamalak/portfolio) | My site: static-first Next.js on Cloudflare Pages |
 
+### Tech I use
 
-[![Humza github stats](https://github-readme-stats.vercel.app/api?username=humzamalak)](https://github.com/humzamalak/github-readme-stats)
+**Cloud & DevOps**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humzamalak)](https://github.com/humzamalak/github-readme-stats)
+**Languages & frameworks**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+**Data**<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+### GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=humzamalak&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Humza's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzamalak&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+### Get in touch
+
+[![Website](https://img.shields.io/badge/humzamalak.dev-000000?style=flat&logo=googlechrome&logoColor=white)](https://humzamalak.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humza-m-64607514b)
